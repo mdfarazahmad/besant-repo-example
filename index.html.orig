@@ -1,5 +1,4 @@
 test data
-feature-3 changes
 This is a change from the local repo for git clone example
 this is the change from the github
 this is a change from feature-two
@@ -11,6 +10,10 @@ adding some more changes for git rebase e
 adding some more changes for git rebase e
 adding some more changes for git rebase e
 adding some more changes for git rebase e
+
+
+<<<<<<< HEAD
+=======
 changes from worker1
 changes from worker1
 changes from worker1
@@ -22,17 +25,24 @@ changes from worker1
 changes from worker1
 changes from worker1
 changes from worker1
-this is change from worke2
-this is change from worke2
-this is change from worke2
-this is change from worke2
-this is change from worke2
-this is change from worke2
-this is change from worke2
-this is change from worke2
-this is change from worke2
-this is change from worke2
+
+
+>>>>>>> 342a3a3 (worker1 changes)
 
 
 
 
+
+<<<<<<< HEAD
+this is change from worke2
+this is change from worke2
+this is change from worke2
+this is change from worke2
+this is change from worke2
+this is change from worke2
+this is change from worke2
+this is change from worke2
+this is change from worke2
+this is change from worke2
+=======
+>>>>>>> 342a3a3 (worker1 changes)
